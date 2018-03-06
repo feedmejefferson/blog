@@ -31,7 +31,7 @@ authors:
 description: >- # this means to ignore newlines until "baseurl:"
   This is the Feed me, Jefferson! blog, where we'll document our
   journey of building the Feed me, Jefferson! site and app.
-  We're dedicated to helping you (especiall if you're Karen) figure out what
+  We're dedicated to helping you (especially if you're Karen) figure out what
   you're hungry for!
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://feedmejefferson.github.io" # the base hostname & protocol for your site, e.g. http://example.com
